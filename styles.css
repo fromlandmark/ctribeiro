@@ -13,12 +13,9 @@ main {
 
 .main-special {
     float: left;
-/*    margin-bottom: 270px;*/
+    width: 100%;
     background-color: white;
 }
-
-
-
 
 main::after {
     display: block;
@@ -223,7 +220,7 @@ main::after {
 }
 
 .service-thumbnail {
-    width: 390px;
+    width: 320px;
     padding: 40px;
     text-align: center;
     display: inline-block;
